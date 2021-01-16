@@ -1,0 +1,8 @@
+ActionBar_Enable_OnJoin: true
+
+ActionBar_Message: "&4X: &c%X% &4Y: &c%Y% &4Z: &c%Z% &4Facing: &c%Facing%"
+
+Enable_Message: "&6You have enable coordinate"
+Disable_Message: "&6You have disable coordinate"
+No_Argument: "&cYou don't have include arguments"
+No_Permission: "&cYou don't have permission to do that"

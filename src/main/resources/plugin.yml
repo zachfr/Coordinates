@@ -1,0 +1,6 @@
+name: Coordinates
+version: ${project.version}
+main: me.zachary.coordinates.Coordinates
+api-version: 1.16
+authors: [ Zach_FR ]
+description: Show coordinate of player in action bar
